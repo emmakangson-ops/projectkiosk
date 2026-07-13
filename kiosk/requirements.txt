@@ -1,0 +1,6 @@
+streamlit>=1.45.0
+pymysql>=1.1.0
+python-dotenv>=1.0.1
+pandas>=3.0.3
+extra-streamlit-components>=0.1
+streamlit-cookies-manager>=0.2
