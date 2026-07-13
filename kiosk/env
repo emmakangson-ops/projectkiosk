@@ -1,0 +1,6 @@
+
+DB_HOST=localhost
+DB_PORT=3306
+DB_USER=kiosk
+DB_PASS=kiosk1234
+DB_NAME=kiosk
